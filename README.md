@@ -20,7 +20,7 @@ SSIDs must not be misspelled (otherwise nothing happens),
 and there is no numbering to guide the reprioritization 
 (I simply guess a number, find out where the target SSID ended up, and try again).
 
-To run this program yourself, copy the above text into a new .txt file (such as Notepad), 
+To run this program yourself, copy the code into a new .txt file (such as Notepad), 
 save it somewhere, 
 and then change the ".txt" in the filename to ".bat". 
 You may have to disable the "Hide extension for known file types" feature in Windows Explorer to do so. 
