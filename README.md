@@ -28,3 +28,5 @@ You may have to disable the "Hide extension for known file types" feature in Win
 Remember to change the Interface name in the source code if it does not go by the default name "Wi-Fi". 
 
 You can later make edits by right-clicking on the file and selecting Edit.
+
+A known bug of this program is a fault of the netsh command, where APs beginning with the number sign (#) cannot be moved around. The workaround I use is to change every other AP around it.
